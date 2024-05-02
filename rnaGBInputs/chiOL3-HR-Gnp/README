@@ -1,0 +1,4 @@
+These simulations were carried out with GBNeck2-nuc with a 30% base stacking increase for implicit solvent model in Amber and the chiOL3-HR force field for RNA.
+
+A sample parmed input can be found in the Supplementary Information text. 
+
